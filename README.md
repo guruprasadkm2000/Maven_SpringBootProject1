@@ -12,9 +12,9 @@ got to https://start.spring.io/ and start building the pom file # easy to build 
 
 git clone [url of github]
 
-upload the file generated [springbootjava]
+upload the file generated [springbootjava] to GitHub Repo
 
-then start the maven workflow : 
+# Start the maven workflow : 
 mvn validate,
 mvn compile,
 mvn test,
@@ -23,6 +23,6 @@ mvn package,
 # To execute the jar file
 java -jar /target/file_name.jar
 
-open the ip:8080
-The Spring Boot Java Application Is Running
+open the ip:8080 in the browser
+# The Spring Boot Java Application Is Running
 
