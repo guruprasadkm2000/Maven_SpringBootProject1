@@ -15,11 +15,14 @@ git clone [url of github]
 upload the file generated [springbootjava]
 
 then start the maven workflow : 
-mvn validate
-mvn compile
-mvn test
-mvn package
+mvn validate,
+mvn compile,
+mvn test,
+mvn package,
+
+# To execute the jar file
 java -jar /target/file_name.jar
 
 open the ip:8080
+The Spring Boot Java Application Is Running
 
